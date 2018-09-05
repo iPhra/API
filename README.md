@@ -3,7 +3,7 @@ This is the repository for the project "Prova finale di Algoritmi e Strutture Da
 It's a C implementation (libc only) of a simple Unix tree-shaped filesystem, saved in RAM.  
   
 
-Inputs are given through command line, and consists of:  
+Inputs are given through command line, and consist of:  
 -Creating an empty file in an existing directory  
 -Creating an empty directory  
 -Reading the content of a file in a given path  
