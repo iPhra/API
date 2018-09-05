@@ -1,5 +1,5 @@
 # simple-filesystem
-This is the repository for the project "Prova finale di Algoritmi e Strutture Dati" by Politecnico di Milano.  
+This is the repository for the project "Prova finale di Algoritmi e Strutture Dati" (Final test of Algorithms and Data Structures) by Politecnico di Milano.  
 It's a C implementation (libc only) of a simple Unix tree-shaped filesystem, saved in RAM.  
   
 
